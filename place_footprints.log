@@ -1,0 +1,68 @@
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 409:Plugin executed on: 'win32'
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 410:Plugin executed with python version: '3.9.14 (main, Dec  1 2022, 01:13:20) [MSC v.1932 64 bit (AMD64)]'
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 411:KiCad build version: (6.0.10)
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 412:Plugin version: 1.2.8
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 413:Frame repr: <wx._core.Frame object at 0x000002347561A700>
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R17 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R6 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U5 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C15 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint G*** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R12 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J7 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R15 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R7 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D2 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R18 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R8 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J10 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C14 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q2 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C16 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R2 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J4 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C5 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q6 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R13 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C11 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C10 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q4 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R14 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J8 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R12 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U6 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C9 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R15 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C2 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J9 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J5 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U4 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R8 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U3 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 140:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C13 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R5 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C4 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C6 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C7 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C12 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q5 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C8 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R16 on root level
+01-08 14:45:28 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U2 on root level
