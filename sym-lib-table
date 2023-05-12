@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "IR2136S")(type "KiCad")(uri "${KIPRJMOD}/external_cad_lib/IR2136S/IR2136S.kicad_sym")(options "")(descr ""))
+  (lib (name "XT30PW-F")(type "KiCad")(uri "${KIPRJMOD}/external_cad_lib/XT30PW-F/XT30PW-F.kicad_sym")(options "")(descr ""))
 )
